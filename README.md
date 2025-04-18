@@ -12,7 +12,7 @@ This is a simple command-line-based Contact Management System written in Python.
 
 ## Files
 
-- `Contact Management System.py` — main Python script to run the application
+- `contact_management_system.py` — main Python script to run the application
 - `contacts.json` — file where contacts are saved
 
 ## Getting Started
