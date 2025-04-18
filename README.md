@@ -22,4 +22,4 @@ Make sure you have Python installed on your system.
 
 ### Running the Program
 ```bash
-python contact_manager.py
+python contact_management_system.py
